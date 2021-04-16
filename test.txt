@@ -1,6 +1,0 @@
-there are four types of sevierity  ---  SLA ( Service level aggrement )
-
-P0  -   prod down ( so many users got impacted )  -- 0-30mins
-P1  -   Prod down but not many user are impacted  -- 0-60mins
-P2  -   general issue ( testing env issue )       -- 3-4 hrs
-P3  -   no impact to bussiness                    -- 24hrs
